@@ -616,17 +616,3 @@ const startGame = () => {
 }
 
 startGame();
-
-/*
-mate = 2
-check = 2
-
-while (check === mate) {
-    let randomNum = Math.floor(Math.random() * 7)
-    console.log(randomNum)
-    if (randomNum === 3) {
-        console.log("done")
-        check += 1
-    }
-}
-*/
