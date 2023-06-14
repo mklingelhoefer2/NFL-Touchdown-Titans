@@ -7,6 +7,11 @@ Once the teams are filled, the offensive players go head-to-head with the defens
 The game consists of 6 drives (3 drives by each team).
 If the game is tied after 6 drives, both teams will enter overtime where the winner is randomly decided through an indefinite amount of drives.
 
+## Features
+- Field Goal probability (better chance to make a field goal from a shorter amount of yards)
+- PAT probability (chance to miss a PAT)
+- Fumbles & interceptions
+
 ## How to run
 Download the JavaScript program and run it with whichever method you choose.
 
